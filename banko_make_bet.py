@@ -34,7 +34,7 @@ def make_bet(choice,p1a,p1b,p2):
             print("Godlike! You Win This Round and 30 Points.")
             banko_points.points(4)
         elif (p1a == p1b == p2):    
-            print("Jackpot! You Win This Round and 60 Points")
+            print("Moonshot! You Win This Round and 60 Points")
             banko_points.points(5)
         else:
             print("Oh My! You Lose This Round and 30 Points.")                
