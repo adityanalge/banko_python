@@ -5,6 +5,8 @@ Created on Thu Jul 13 02:36:28 2017
 
 @author: adi
 """
+# This is a simple version of the entire project combined into one script
+
 from random import randint
 
 face_card = ['Ace','2','3','4','5','6','7','8','9','10','Jack','Queen','King']
